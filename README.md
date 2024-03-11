@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-🔭 I’m currently working on :: Improving an AI robotic companion.And Seeking Internship Opportunities<br>👯 I’m looking to collaborate on :: Full stack, Ai and interesting projects<br>🌱 I’m currently learning :: Android development and AI&ML<br>💬 Ask me about :: Python, C++, Javascript, React, Django, web/app development, Machines & Robots and any general IT related queries<br>📫 How to reach me :: devadaths3@gmail.com <br/>⚡Fun fact :: I'm that 1%
+🔭 I’m currently working on :: Improving an AI robotic companion.And Seeking Internship Opportunities<br>👯 I’m looking to collaborate on :: Full stack, Ai and interesting projects<br>🌱 I’m currently learning :: Android development and AI&ML<br>💬 Ask me about :: Python, C++, Javascript, React, Django, web/app development, Machines & Robots and any IT related queries<br>📫 How to reach me :: devadaths3@gmail.com <br/>⚡Fun fact :: I'm that 1%
 
 
 ## 🌐 Socials:
