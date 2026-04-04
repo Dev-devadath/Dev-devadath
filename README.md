@@ -1,10 +1,10 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://rishavchanda.io)
 # 💫 About Me: <h1 align="center">Hello World 👋, I'm Devadath</h1>
-<h3 align="center">Innovative Developer| Crafting Next-Gen Solutions in Development, AI etc...</h3>
+<h3 align="center">The more I Fu*k around, The more I figure Out!</h3>
 <br/>
 <br/>
 
-🔭 I’m currently working on :: Developing ma startups. And some cool tech stuffs!<br>👯 I’m looking to collaborate on :: Full stack, Ai and interesting projects<br><br>📫 How to reach me :: devadaths3@gmail.com <br/>⚡Fun fact :: I'm that 1%
+🔭 I’m currently working on :: Developing ma startups. And some cool tech stuffs!<br>👯 I’m looking to collaborate on :: Full stack, Ai and interesting projects<br><br>https:///devadath.dev <br/>⚡Fun fact :: I'm that 1%
 
 
 ## 🌐 Socials:
