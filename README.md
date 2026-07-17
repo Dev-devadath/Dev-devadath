@@ -4,7 +4,7 @@
 <br/>
 <br/>
 
-🔭 I’m currently working on :: Developing ma startups. And some cool tech stuffs!<br>👯 I’m looking to collaborate on :: Full stack, Ai and interesting projects<br><br>https:///devadath.dev <br/>⚡Fun fact :: I'm that 1%
+Shits happen..<br> Be devadathyyy :)<br>https:///devadath.dev <br/>⚡Fun fact :: I'm that 1%
 
 
 ## 🌐 Socials:
